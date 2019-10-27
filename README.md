@@ -1,0 +1,1 @@
+After install uncomment last two lines in a file .gitignore
